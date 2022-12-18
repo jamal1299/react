@@ -1,0 +1,29 @@
+
+.world{
+  color : purple;
+  text-shadow: 3px 3px 3px  rgb(117, 114, 114);
+
+
+}
+.home,.career,.contact,.about{
+  min-height: 70vh;
+}
+.career-txt{
+  font-weight: bolder;
+ ;
+ 
+}
+.main-btn{
+  width: 130px;
+  height: 40px;
+  border: 1px solid purple;
+}
+.main-btn:hover{
+  width: 130px;
+  height: 40px;
+ background-color:  rgb(158, 26, 158);
+ color: #fff;
+}
+.world{
+  text-decoration:line-through 1px solid purple;
+}
